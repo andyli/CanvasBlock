@@ -1,0 +1,12 @@
+CanvasBlock is a GreaseMonkey script that block HTML5 canvas elements like FlashBlock.
+You can install it from http://userscripts.org/scripts/show/74216
+
+Caution: Please do not use it in daily life, it is experimental. Blocking a canvas element may crash your browser. Moreover the HTML5 tags are part of the web and I don't think blocking canvas or any other tags brings any real benefit to you.
+
+It is named CanvasBlock but it does not only block canvas tags, but also video and audio tags.
+
+The blocked tags are replaced by a line of text, "Click to show xxxx". You may click on it to get back the blocked content.
+
+You may test the script at 
+http://calinmocanu.webs.com/the_canvas/fish.htm
+http://www.mozilla.com/en-US/firefox/video/
